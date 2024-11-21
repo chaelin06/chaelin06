@@ -1,11 +1,11 @@
 ## 채린
-
+난 또라이 입	니다.
 
   <div align=center>
 
-![짱구](https://github.com/user-attachments/assets/b969d707-c232-48c4-97e5-ee996c7ba5a6)
- 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/chaelin06)](https://hits.seeyoufarm.com) 
+
+  ![짱구](https://github.com/user-attachments/assets/b969d707-c232-48c4-97e5-ee996c7ba5a6)
 	
   </div>
 
