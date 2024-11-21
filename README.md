@@ -1,5 +1,5 @@
 ## 채린
-난 또라이 입	니다.
+
 
   <div align=center>
 
