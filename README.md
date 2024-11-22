@@ -13,6 +13,7 @@ MBTI: INTP 입니다.
 |  인스타 | <a href=https://www.instagram.com/c__lin.06/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>  |   |   |   |
 |  E-mail |   |   |   |   |
 
+<a href=https://visualstudio.microsoft.com/fr/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 
   <div align=center>
 
