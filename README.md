@@ -15,10 +15,6 @@ MBTI: INTP 입니다.
   ![짱구](https://github.com/user-attachments/assets/b969d707-c232-48c4-97e5-ee996c7ba5a6)
 	
   </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+ [![chaelin06's github stats](https://github-readme-stats.vercel.app/api?chaelin06=chaelin06)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href=https://www.instagram.com/c__lin.06/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
