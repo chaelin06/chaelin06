@@ -33,6 +33,7 @@
   ![짱구](https://github.com/user-attachments/assets/b969d707-c232-48c4-97e5-ee996c7ba5a6)
   
 	짱구는 제가 제일 좋아하는 캐릭터이기도 하고, 친구들이 성격이 닮았다고 하여 넣었습니다.
+ 
   </div>
   
  [![chaelin06's github stats](https://github-readme-stats.vercel.app/api?username=chaelin06)](https://github.com/chaelin06/github-readme-stats)
