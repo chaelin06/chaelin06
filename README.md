@@ -14,6 +14,7 @@ MBTI: INTP 입니다.
 |  E-mail |   |   |   |   |
 
 <a href=https://visualstudio.microsoft.com/fr/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
+<a href=https://www.python.org/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
   <div align=center>
 
