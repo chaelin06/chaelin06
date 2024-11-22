@@ -7,6 +7,12 @@ MBTI: INTP 입니다.
 제 목표는 앞으로 다양한 활동들을 통해 배우고 경험해보고 싶습니다! 그 중에서도 영화 CG쪽에 관심이 있습니다.
 저는 프로젝트에서 다른 개발자들과 협업하는 것을 매우 중요하게 생각합니다
 
+|  정보 |  중앙대학교 | 예술공학대학  |  예술공학부 | 24학번 |
+|---|---|---|---|---|
+| **문채린**  |  2005. 06. 02 |  여자 |  **MBTI** |  INTP |
+|  인스타 | <a href=https://www.instagram.com/c__lin.06/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>  |   |   |   |
+|  E-mail |   |   |   |   |
+
 
   <div align=center>
 
@@ -18,4 +24,4 @@ MBTI: INTP 입니다.
   
  [![chaelin06's github stats](https://github-readme-stats.vercel.app/api?username=chaelin06)](https://github.com/chaelin06/github-readme-stats)
 
-<a href=https://www.instagram.com/c__lin.06/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
