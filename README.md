@@ -13,11 +13,10 @@
 
 # 
 **기술**
-
-기술은 아직 배워나가고 있는 중인 파이썬, C++이 있습니다.
-
 <a href=https://visualstudio.microsoft.com/fr/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
 <a href=https://www.python.org/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+기술은 아직 배워나가고 있는 중인 파이썬, C++이 있습니다.
 
 #
 **프로젝트**
