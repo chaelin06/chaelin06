@@ -9,7 +9,7 @@
 |  정보 |  중앙대학교 | 예술공학대학  |  예술공학부 | 24학번 |
 |---|---|---|---|---|
 | **문채린**  |  2005. 06. 02 |  여성 |  **MBTI** |  INTP |
-|  **인스타** | <a href=https://www.instagram.com/c__lin.06/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>  |   |   |   |
+|  **인스타** | <a href=https://www.instagram.com/c__lin.06/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>  | c_lin.06  |   |   |
 |  **E-mail** | [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaelin6666@gmail.com)](mailto:chaelin6666@gmail.com)  |   |   |   |
 
 # 
