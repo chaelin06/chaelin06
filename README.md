@@ -16,5 +16,6 @@ MBTI: INTP 입니다.
 	
   </div>
  [![chaelin06's github stats](https://github-readme-stats.vercel.app/api?username=chaelin06)](https://github.com/chaelin06/github-readme-stats)
+ [![chaelin06's github stats](https://github-readme-stats.vercel.app/api?username=chaelin06)](https://github.com/chaelin06/github-readme-stats)
 
 <a href=https://www.instagram.com/c__lin.06/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
